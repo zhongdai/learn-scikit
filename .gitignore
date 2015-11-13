@@ -1,6 +1,8 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+*.pdf
+.ipynb_checkpoints/
 
 # C extensions
 *.so
@@ -55,3 +57,4 @@ docs/_build/
 
 # PyBuilder
 target/
+
