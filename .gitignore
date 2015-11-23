@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *.pdf
 .ipynb_checkpoints/
+*.txt
 
 # C extensions
 *.so
